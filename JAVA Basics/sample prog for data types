@@ -1,0 +1,14 @@
+Class Ideone
+{
+   public static void main(String[]args)
+   {
+      String name="Jeeva";
+      String city="Chennai"; 
+      int age=21;
+      float height=5.6f;
+      boolean married=false;
+      String sex="male";
+      double citypopulation=4828853.10;
+      System.out.print("\n Name:"+name+"\n" City:"+City+ "\n Age:"+age+"\n Height:"+height+ "\n Married:"+married+ "\nSex:"+sex+"\n City Population:"+citypopulation+);
+      }
+}
