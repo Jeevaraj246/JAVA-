@@ -1,0 +1,26 @@
+class Ideone
+{
+  public static void main (String[] args)
+  {
+    int a=5;
+    int b=10;
+    int c=a+b;
+    int d=a-b;
+    int e=a*b;
+    int f=a/b;
+    int g=a%b;
+    int h=b++;
+    int i=b--;
+    int j=a&b;
+    int k=a|b;
+    int l=a^b;
+    int m=~a;
+    int n=a<<2;
+    int o=a>>2;
+    int p=a>>>2;
+    int q=a&&b;
+    int r=a||b;
+    int s=!(a&&b);
+   System.out.println("\n A:"+a+ "\n B:"+b+ "\n C:"+c+ "\n D:"+d+ "\n E:"+e+ "\n F"+f+ "\n G:"+g+ "\n H:"+h+ "\n I:"+i+ "\n J:"+j+ "\n K:"+k+ "\n L:"+l+ "\n M:"+m+ "\n N:"+n+ "\n O:"+o+ "\n p:"+p+ "\n Q:"+\q+ "\n R:"+r+ "\S:"+s);
+   }
+  }  
