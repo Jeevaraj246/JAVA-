@@ -5,19 +5,18 @@ public static void main(String[] args)
 {
   int j;
   Scanner s=new Scanner(System.in);
-  System.out.println("Enter the number:");
   j=s.nextInt();
   if(j>0)
     {
-    System.out.println("The Number is positive:"+j);
+    System.out.println("positive");
     }
   else if(j<0)
     {
-    System.out.println("The Number is negative:"+j);
+    System.out.println("negative");
     }
   else
     {
-    System.out.println("The Number is equal to zero:"+j);
+    System.out.println("zero");
     }
   }
 }
