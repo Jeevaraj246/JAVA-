@@ -7,13 +7,13 @@ class guvi
 
         Scanner reader = new Scanner(System.in);
 
-        System.out.print("Enter a number: ");
+        
         int num = reader.nextInt();
 
         if(num % 2 == 0)
-            System.out.println("even");
+            System.out.println("Even");
         else if(num % 2 != 0)
-            System.out.println("odd");
+            System.out.println("Odd");
         else 
         	System.out.println("Invalid");
     }
