@@ -1,23 +1,23 @@
 import java.util.Scanner;
-class java
+class GUVI
 {
 public static void main(String[] args)
 {
-  int a;
+  int j;
   Scanner s=new Scanner(System.in);
   System.out.println("Enter the number:");
-  a=s.nextInt();
-  if(a>0)
+  j=s.nextInt();
+  if(j>0)
     {
-    System.out.println("The Number is positive:"+a);
+    System.out.println("The Number is positive:"+j);
     }
-  else if(a<0)
+  else if(j<0)
     {
-    System.out.println("The Number is negative:"+a);
+    System.out.println("The Number is negative:"+j);
     }
   else
     {
-    System.out.println("The Number is equal to zero:"+a);
+    System.out.println("The Number is equal to zero:"+j);
     }
   }
 }
