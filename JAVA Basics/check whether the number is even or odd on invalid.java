@@ -15,6 +15,6 @@ class guvi
         else if(num % 2 != 0)
             System.out.println("Odd");
         else 
-        	System.out.println("Invalid");
+        	System.out.println("invalid");
     }
 }
