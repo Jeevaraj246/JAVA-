@@ -18,7 +18,7 @@
             System.out.println("Consonant");
             
         else
-	System.out.println("Invalid");
+	System.out.println("invalid");
 
     }
 }
