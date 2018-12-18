@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class guvi
+class Guvi
 {
 
     public static void main(String[] args) {
