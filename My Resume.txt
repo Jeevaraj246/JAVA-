@@ -12,7 +12,7 @@ PERSONAL PROFILE:
 
 TECHNICAL SKILLS:
   Languages: Java, SQL.
-  Software : Eclipse, GNS3, SQL Plus, Arduino IDE, Proteus 8, Office 
+  Software : Eclipse, GNS3, SQL Plus, Arduino IDE, Proteus 8, MS Office 
   Hardware : 1.Embedded processor hardware design
        	     2.Circuit Designing Basics
              
