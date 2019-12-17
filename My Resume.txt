@@ -1,11 +1,11 @@
 PERSONAL PROFILE:
-						Name              :JEEVA.S
+	    Name              :JEEVA.S
             Phone Number      : +91 9941 664 632
             Email I'D         : jeevaraj246@gmail.com
-            Date of Birth			: 06-11-1997
-            Gender				    : Male
-            Address	      		: 32,C.P.Cittrarasu Street, Anna Nagar,
-					                       Korukkupet, Chennai-600 021.
+            Date of Birth     : 06-11-1997
+            Gender     	      : Male
+            Address           : 32,C.P.Cittrarasu Street, Anna Nagar,
+	                        Korukkupet, Chennai-600 021.
             Educational 
             Qualification     :B.E-ECE (2019 passed out) 61%
             College Name      :Mohamed Sathak A.J College of Engineering
