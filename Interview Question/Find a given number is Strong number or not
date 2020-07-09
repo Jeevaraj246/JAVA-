@@ -1,0 +1,24 @@
+public class Strongnumber {
+	public static int fact(int no) {
+		int fact=1;
+		for(int i=no;i>=1;i--) {
+			fact=fact*i;
+		}return fact;
+	}
+	public static boolean strong(int num) {
+		int out=0;
+		int temp=num;
+		while(num!=0) {
+			int last=num%10;
+			int fres=fact(last);
+			out=out+fres;
+			num=num/10;
+		}return out==temp;
+	}
+	public static void main(String[] args) {
+	int num=145;
+	boolean result=strong(num);
+	System.out.println(result);
+	
+}
+}
