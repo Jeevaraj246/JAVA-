@@ -1,0 +1,16 @@
+public class factrec {
+	static int fact = 1;
+
+	public static void test(int a) {
+		if (a > 1) {
+			fact = fact * a;
+			test(--a);
+		}
+	}
+
+	public static void main(String[] args) {
+		int i = 5;
+		test(i);
+		System.out.println("Factorial : " + fact);
+	}
+}
