@@ -1,0 +1,22 @@
+public class Pattern {
+	public static void demo(int j) {
+		if(j<=10) {
+			System.out.print(j);
+			System.out.print(" ");
+			demo(++j);
+		}
+	}
+	public static void demo1(int i) {
+		if(i>1) {
+			System.out.print(i);
+			System.out.print(" ");
+			demo1(--i);
+		}else {
+			demo(1);
+		}
+	}
+
+	public static void main(String[] args) {
+		demo1(10);
+	}
+}
